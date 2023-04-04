@@ -1,5 +1,5 @@
 # ChatGPT-Line-Bot
-1.申請好linebotAPI金鑰，及ChatGPT的API金鑰
+1.準備好linebotAPI金鑰，及ChatGPT的API金鑰
 ### 申請OpenAI API key
   1. 前往 https://beta.openai.com/account/api-keys
   
