@@ -6,7 +6,7 @@
   2. 點擊 Create new secret key
 
      ![image](https://user-images.githubusercontent.com/89479282/207970699-2e0cb671-8636-4e27-b1f3-b75d6db9b57e.PNG)
-### Geanerate an Line API key  [**參考**](https://ithelp.ithome.com.tw/articles/10280447)
+### Geanerate an Line API key  [**參考**](https://ithelp.ithome.com.tw/articles/10229943)
 
 2.執行```pip3 install -r requirements.txt```
 
