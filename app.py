@@ -36,7 +36,7 @@ def handle_message(event):
         response = openai.Completion.create(
             model="text-davinci-003",
             prompt=out,
-            max_tokens=128,
+            max_tokens=1280,
             temperature=0.5,
        )   
         completed_text = response.choices[0].text
